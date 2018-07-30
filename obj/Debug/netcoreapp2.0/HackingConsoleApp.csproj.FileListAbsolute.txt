@@ -1,0 +1,11 @@
+D:\code\HackingConsoleApp\HackingConsoleApp\bin\Debug\netcoreapp2.0\HackingConsoleApp.deps.json
+D:\code\HackingConsoleApp\HackingConsoleApp\bin\Debug\netcoreapp2.0\HackingConsoleApp.runtimeconfig.json
+D:\code\HackingConsoleApp\HackingConsoleApp\bin\Debug\netcoreapp2.0\HackingConsoleApp.runtimeconfig.dev.json
+D:\code\HackingConsoleApp\HackingConsoleApp\bin\Debug\netcoreapp2.0\HackingConsoleApp.dll
+D:\code\HackingConsoleApp\HackingConsoleApp\bin\Debug\netcoreapp2.0\HackingConsoleApp.pdb
+D:\code\HackingConsoleApp\HackingConsoleApp\obj\Debug\netcoreapp2.0\HackingConsoleApp.csprojResolveAssemblyReference.cache
+D:\code\HackingConsoleApp\HackingConsoleApp\obj\Debug\netcoreapp2.0\HackingConsoleApp.csproj.CoreCompileInputs.cache
+D:\code\HackingConsoleApp\HackingConsoleApp\obj\Debug\netcoreapp2.0\HackingConsoleApp.AssemblyInfoInputs.cache
+D:\code\HackingConsoleApp\HackingConsoleApp\obj\Debug\netcoreapp2.0\HackingConsoleApp.AssemblyInfo.cs
+D:\code\HackingConsoleApp\HackingConsoleApp\obj\Debug\netcoreapp2.0\HackingConsoleApp.dll
+D:\code\HackingConsoleApp\HackingConsoleApp\obj\Debug\netcoreapp2.0\HackingConsoleApp.pdb
